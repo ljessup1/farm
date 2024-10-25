@@ -40,6 +40,11 @@ p {
     color: #000000;
 }
 
+.fresh {
+    background-color: #06A816;
+    color: #ffffff;
+}
+
 .grid-container {
     display: grid;
     column-gap: 50px;
