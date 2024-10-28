@@ -86,7 +86,7 @@ footer {
 
 /* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
 
-@media screen (min-width: 428px) {
+@media screen and (min-width: 428px) {
     
 
     .item-1 {
@@ -152,7 +152,7 @@ footer {
 
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
 
-@media screen (min-width: 834px) {
+@media screen and (min-width: 834px) {
 
 .item-1 {
     grid-column: 1;
@@ -217,7 +217,7 @@ footer {
 
 /*-------------------- MEDIA QUERY (large) ------------------------------------*/
 
-@media screen (min-width: 1280px) {
+@media screen and (min-width: 1280px) {
 
     .item-1 {
     grid-column: 1;
@@ -281,7 +281,7 @@ footer {
 }
 
 /*-------------------- MEDIA QUERY (xl) ---------------------------------------*/
-@media screen (min-width: 1448px) {
+@media screen and (min-width: 1448px) {
 .item-1 {
     grid-column: 1;
     grid-row: 1;
