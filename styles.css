@@ -96,57 +96,57 @@ footer {
 
     .item-2 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 2;
 }
 
 .item-3 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 3;
 }
 
 .item-4 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 4;
 }
 
 .item-5 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 5;
 }
 
 .item-6 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 6;
 }
 
 .item-7 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 7;
 }
 
 .item-8 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 8;
 }
 
 .item-9 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 9;
 }
 
 .item-10 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 10;
 }
 
 .item-11 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 11;
 }
 
 .item-12 {
     grid-column: 1;
-    grid-row: 1;
+    grid-row: 12;
     }  
 }
 
