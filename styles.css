@@ -50,6 +50,7 @@ p {
     column-gap: 50px;
     row-gap: 50px;
     gap: 50px 100px;
+    list-style-type: none;
 }
 
 footer {
