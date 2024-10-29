@@ -63,13 +63,12 @@ footer {
 
 @media screen and (min-width: 428px) {
     
-
-    .item-1 {
+.item-1 {
     grid-column: 1;
     grid-row: 1;
 }
 
-    .item-2 {
+.item-2 {
     grid-column: 1;
     grid-row: 2;
 }
@@ -258,7 +257,7 @@ footer {
 
 @media screen and (min-width: 1280px) {
 
-    .item-1 {
+.item-1 {
     grid-column: 1;
     grid-row: 1;
 }
@@ -347,6 +346,7 @@ footer {
 
 /*-------------------- MEDIA QUERY (xl) ---------------------------------------*/
 @media screen and (min-width: 1448px) {
+
 .item-1 {
     grid-column: 1;
     grid-row: 1;
