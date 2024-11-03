@@ -150,9 +150,10 @@ footer {
     text-align: center;
 }
 
-.copy {
+small {
     text-align: center;
     color: #06A816;
+    background-color: #ffffff;
 }  
 }
 
@@ -247,9 +248,10 @@ footer {
     text-align: center;
 }
 
-.copy {
+small {
     text-align: center;
     color: #06A816;
+    background-color: #ffffff;
 }
 }
 
@@ -338,9 +340,10 @@ footer {
     grid-row: 2;
 }
 
-.copy {
+small {
     text-align: center;
     color:#06A816;
+    background-color: ffffff
 }
 }
 
@@ -428,8 +431,9 @@ footer {
         grid-row: 2;
  }
     
-.copy {
+small {
         text-align: center;
         color: #06A816;
+    background-color: #ffffff;
 }
 }
